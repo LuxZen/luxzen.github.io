@@ -1,5 +1,5 @@
 # LuxZen.eu
-[![Build Status](https://travis-ci.org/eLuxZen/eluxzen.github.io.svg?branch=master)](https://travis-ci.org/eLuxZen/eluxzen.github.io)
+[![Build Status](https://travis-ci.org/LuxZen/luxzen.github.io.svg?branch=master)](https://travis-ci.org/LuxZen/luxzen.github.io)
 
 This is the Jekyll repository for building and maintaining the luxzen.eu website
 
