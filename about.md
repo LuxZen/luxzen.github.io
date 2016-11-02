@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+LuxZen is een advies en trainingsbureau in Apeldoorn, opgericht in 2015 van waaruit oprichter Erik van Luxzenburg zijn kennis en vaardigheden kan aanbieden aan bedrijven, organisaties en individuen.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Waar staat LuxZen voor? Allereerst natuurlijk voor het eerste deel van mijn achternaam, van Luxzenburg. Maar bovenal staat Lux voor licht en Zen voor de oosterse filosofie van diepgang door rust en eenvoud. Dat is waar ik met LuxZen voor sta: licht en rust brengen in uw organisatie door zaken diepgaand aan te maken maar wel vanuit praktische eenvoud te werken!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Vanuit deze filosofie biedt ik via LuxZen mijn kennis en ervaring als organisatie adviseur en trainer aan voor zowel organisatie ontwikkeling als persoonlijke ontwikkeling.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+De focus in dit advieswerk ligt door mijn achtergrond als Lean en Agile coach op de implementatie van Lean en Agile / Scrum bij midden- en klein bedrijven, de publieke sector en NGO's. Maar via LuxZen kan ik dienen als strategisch adviseur voor u en uw organisatie op een breder scala aan onderwerpen.
