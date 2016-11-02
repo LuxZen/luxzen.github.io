@@ -2,7 +2,7 @@ title: LuxZen
 author: Erik van Luxzenburg
 email: info@luxzen.eu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://github.com/LuxZen/luxzen.github.io 
+url: https://github.com/LuxZen/luxzen.github.io
 twitter_username: eLuxZen
 github_username: eLuxZen
 
@@ -10,5 +10,6 @@ github_username: eLuxZen
 markdown: kramdown
 highlighter: rouge
 encoding: utf-8
+timezone: Europe/Amsterdam
 permalink: :year/:month/:day/:title/
 exclude: [vendor]
