@@ -2,14 +2,26 @@ title: LuxZen
 author: Erik van Luxzenburg
 email: info@luxzen.eu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://github.com/LuxZen/luxzen.github.io
+url: http://luxzen.eu/
+enable_retina: false
+permalink: :title
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  Over LuxZen : ['Over LuxZen', '/about', 'fa-question-circle']
+  Diensten : ['Diensten', '/diensten', 'fa-cog']
+  Contact : ['Contact', '/contact', 'fa-phone-square']
+  Author : ['Auteur', '/auteur/Erik', 'fa-user']
+single_footer: '<p>First steps in triathlon. Bastiaan Schaap &copy; 2016 <a href="/">nieuwste posts</a></p>'
+footer_links:
+    About: ['Over LuxZen', '/about']
+Writer: ['Erik van Luxzenburg 2016', '/auteur/Erik']
 twitter_username: eLuxZen
 github_username: eLuxZen
+timezone: 'Europe/Amsterdam'
+encoding: 'utf-8'
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-encoding: utf-8
-timezone: Europe/Amsterdam
 permalink: :year/:month/:day/:title/
 exclude: [vendor]
