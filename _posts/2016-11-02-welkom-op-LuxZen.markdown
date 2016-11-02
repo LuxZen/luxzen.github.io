@@ -2,7 +2,7 @@
 layout: post
 title:  "Welkom bij LuxZen!"
 date:   2016-11-02 18:59:35 +0200
-categories: jekyll update
+categories: LuxZen update
 ---
 LuxZen is een organisatie opgericht in 2015 van waaruit oprichter Erik van Luxzenburg zijn kennis en vaardigheden kan aanbieden aan bedrijven, organisaties en individuen.
 
